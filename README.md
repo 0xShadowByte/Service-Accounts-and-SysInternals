@@ -1,4 +1,4 @@
-# Vulnerability Manager
+# Vulnerability Management
 
 ### Objective
   
