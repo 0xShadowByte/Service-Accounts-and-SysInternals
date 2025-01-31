@@ -35,3 +35,15 @@ Vulnerability Scanner objective
 *Ref 5: Running this admin command on windows powershell so that we can excute admin commands remotely as an admin*
 
 ![image](https://github.com/user-attachments/assets/0a20968b-e819-474f-a582-02b6925765b1)
+
+*Ref 6: Downloading and installing Tenable on VM*
+
+![image](https://github.com/user-attachments/assets/85ee3f39-5931-413e-a6c6-7dda03f8ec75)
+
+*Ref 7: Running Tenable on VM need to connect via SSL > advanced > continue to localhost (unsafe) and from there fill out the application*
+
+![image](https://github.com/user-attachments/assets/75f919da-f3af-422e-90e1-a617e861b5d0)
+
+
+
+
