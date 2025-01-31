@@ -50,7 +50,8 @@ To identify, assess, and prioritize security weaknesses in the organization's sy
 
 *Ref 9: Running a few vulnerability scans on VM to see what issues we'll get on it and these are the results*
 
-![image](https://github.com/user-attachments/assets/e7c3c183-2a91-473c-a97a-f7de9fe3eb2b)
+![image](https://github.com/user-attachments/assets/007edfbf-536a-46cf-88fb-afaf7eb88403)
+
 
 
 
