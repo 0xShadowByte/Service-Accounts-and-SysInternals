@@ -44,6 +44,9 @@ To identify, assess, and prioritize security weaknesses in the organization's sy
 
 ![image](https://github.com/user-attachments/assets/75f919da-f3af-422e-90e1-a617e861b5d0)
 
+*Ref 8: Wait for Tenable Nessus to finish compiling before using it*
+
+![image](https://github.com/user-attachments/assets/7e2fdf8f-0ee9-49e0-baee-ec22e5a1fa85)
 
 
 
