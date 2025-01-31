@@ -2,7 +2,7 @@
 
 ### Objective
   
-Vulnerability Scanner objective
+To identify, assess, and prioritize security weaknesses in the organization's systems, networks, and applications. This helps prevent potential cyber threats, ensures compliance with security standards, and strengthens the overall security posture by enabling proactive remediation of vulnerabilities before they can be exploited by attackers.
 
 ### Skills Learned
 
