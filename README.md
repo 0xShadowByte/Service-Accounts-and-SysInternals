@@ -48,5 +48,9 @@ To identify, assess, and prioritize security weaknesses in the organization's sy
 
 ![image](https://github.com/user-attachments/assets/7e2fdf8f-0ee9-49e0-baee-ec22e5a1fa85)
 
+*Ref 9: Running a few vulnerability scans on VM to see what issues we'll get on it and these are the results*
+
+![image](https://github.com/user-attachments/assets/e7c3c183-2a91-473c-a97a-f7de9fe3eb2b)
+
 
 
